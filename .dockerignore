@@ -1,0 +1,7 @@
+Dockerfile
+k8s-manifets/*
+LICENSE
+.gitignore
+.dockerignore
+README.md
+.venv
