@@ -1,4 +1,4 @@
-# k8s-python-pg
+# visit-monitor
 
 Репозиторий содержит:
 * Python приложение на FastAPI с использованием SQLAlchemy + Psycopg;
